@@ -1,4 +1,4 @@
-### Hi there 😊, My name is Md. Shariful Islam Shohag
+### Hi there 👋, My name is Md. Shariful Islam Shohag
 #### Software Engineer (.NET+Angular)
 ![Software Engineer (.NET+Angular)](https://media-exp1.licdn.com/dms/image/C5603AQFvb-HClH5h4A/profile-displayphoto-shrink_200_200/0/1652074194867?e=1666828800&v=beta&t=ua5nkOdIjLpQxQaJt1-dkwUHXyZrD63W03uJvx2aUVg)
 
@@ -12,8 +12,6 @@ Skills: C#|ASP.NET Core|Object-Oriented Programming (OOP)|docker|Amazon Web Serv
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shohag66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/shohag66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shariful-islam-shohag-855480201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009399952309)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sharif_shohag_rahman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/edit/14969850)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.shohagportfolio.xyz)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shohag66)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohag66)](https://github.com/anuraghazra/github-readme-stats)
 
