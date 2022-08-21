@@ -1,16 +1,28 @@
-### Hi there 😊. My name is Md. Shariful Islam Shohag
+### Hi there 👋, My name is Md. Shariful Islam Shohag
+#### Software Engineer (.NET+Angular)
+![Software Engineer (.NET+Angular)](https://media-exp1.licdn.com/dms/image/C5603AQFvb-HClH5h4A/profile-displayphoto-shrink_200_200/0/1652074194867?e=1666828800&v=beta&t=ua5nkOdIjLpQxQaJt1-dkwUHXyZrD63W03uJvx2aUVg)
 
-<!--
-**shohag66/shohag66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-motivated student in IT, I am broadly interested in ASP .NET MVC/Core MVC & Angular technology, I have been working on this technology for almost 2 years
 
-Here are some ideas to get you started:
+Skills: C#|ASP.NET Core|Object-Oriented Programming (OOP)|docker|Amazon Web Services (AWS)|Microsoft SQL Server|UnitTesting|SQL|jQuery|AJAX|JavaSript|TypeScript|Angular|Software Design Patterns|Bootstrap|SASS|SOLID Design Principles|High Level Architecture| Entity Framework (EF) Cor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Devskill 
+- 🌱 I’m currently learning ASP NET Core | Angular  
+- 💬 Ask me about C#, ASP NET Core, EF Core, Angular, SQL Server,TypeScript,Javascript 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shohag66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/shohag66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shariful-islam-shohag-855480201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009399952309)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sharif_shohag_rahman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/edit/14969850)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.shohagportfolio.xyz)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shohag66)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohag66)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohag66&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shohag66)  
+
+![GitHub metrics](https://metrics.lecoq.io/shohag66)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shohag66)  
+
+![Profile views](https://gpvc.arturio.dev/shohag66)  
