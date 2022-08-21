@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Md. Shariful Islam Shohag
+### Hi there 😊, My name is Md. Shariful Islam Shohag
 #### Software Engineer (.NET+Angular)
 A self-motivated student in IT, I am broadly interested in ASP .NET MVC/Core MVC & Angular technology, I have been working on this technology for almost 2 years
 
-Skills: C#|ASP.NET Core|Object-Oriented Programming (OOP)|docker|Amazon Web Services (AWS)|Microsoft SQL Server|UnitTesting|SQL|jQuery|AJAX|JavaSript|TypeScript|Angular|Software Design Patterns|Bootstrap|SASS|SOLID Design Principles|High Level Architecture| Entity Framework (EF) Cor
+Skills: C#|ASP.NET Core|Object-Oriented Programming (OOP)|docker|Amazon Web Services (AWS)|MS SQL Server|UnitTesting|jQuery|AJAX|JavaSript|TypeScript|Angular|Software Design Patterns|Bootstrap|SASS|SOLID Design Principles|High Level Architecture| Entity Framework (EF) Core
 
 - 🔭 I’m currently working on Devskill 
-- 🌱 I’m currently learning ASP NET Core | Angular  
+- 🌱 I’m currently learning Docker | Kubernetes 
 - 💬 Ask me about C#, ASP NET Core, EF Core, Angular, SQL Server,TypeScript,Javascript 
 
 
